@@ -1,0 +1,128 @@
+{
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Carlos",
+            "idade": 22,
+            "sexo": "M",
+            "plano_treino": [
+                {
+                    "nome": "Peito",
+                    "exercicios": [
+                        "Supino Reto 4x10",
+                        "Crucifixo 3x12"
+                    ]
+                },
+                {
+                    "nome": "Costas",
+                    "exercicios": [
+                        "Puxada Frente 4x10",
+                        "Remada Baixa 4x12"
+                    ]
+                },
+                {
+                    "nome": "Teste",
+                    "exercicios": [
+                        "Testar"
+                    ]
+                },
+                {
+                    "nome": "Treino de braço",
+                    "exercicios": [
+                        "braço",
+                        "superiores"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nome": "Maria",
+            "idade": 27,
+            "sexo": "F",
+            "plano_treino": [
+                {
+                    "nome": "Pernas",
+                    "exercicios": [
+                        "Agachamento 4x8",
+                        "Leg Press 4x12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "nome": "davila",
+            "idade": 23,
+            "sexo": "f",
+            "plano_treino": []
+        },
+        {
+            "id": 4,
+            "nome": "mateus",
+            "idade": 23,
+            "sexo": "m",
+            "plano_treino": []
+        },
+        {
+            "id": 4,
+            "nome": "davi",
+            "idade": 23,
+            "sexo": "f",
+            "plano_treino": []
+        },
+        {
+            "id": 23,
+            "nome": "matias",
+            "idade": 23,
+            "sexo": "m",
+            "plano_treino": []
+        }
+    ],
+    "instrutores": [
+        {
+            "id": 3,
+            "nome": "João",
+            "idade": 35,
+            "sexo": "M",
+            "especialidade": "Musculação"
+        },
+        {
+            "id": 4,
+            "nome": "Patrícia",
+            "idade": 29,
+            "sexo": "F",
+            "especialidade": "Treino Funcional"
+        }
+    ],
+    "funcionarios": [
+        {
+            "id": 5,
+            "nome": "Ricardo",
+            "idade": 33,
+            "sexo": "M",
+            "cargo": "Recepcionista"
+        },
+        {
+            "id": 6,
+            "nome": "Fernanda",
+            "idade": 31,
+            "sexo": "F",
+            "cargo": "Gerente"
+        }
+    ],
+    "visitantes": [
+        {
+            "id": 7,
+            "nome": "Thiago",
+            "idade": 28,
+            "sexo": "M"
+        },
+        {
+            "id": 8,
+            "nome": "Juliana",
+            "idade": 24,
+            "sexo": "F"
+        }
+    ]
+}
