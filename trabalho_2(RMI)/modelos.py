@@ -1,4 +1,3 @@
-# modelos.py
 class Pessoa:
     def __init__(self, id, nome, idade, sexo):
         self.id = id

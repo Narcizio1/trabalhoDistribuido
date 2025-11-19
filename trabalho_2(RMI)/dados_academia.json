@@ -25,6 +25,13 @@
                     "exercicios": [
                         "Testar"
                     ]
+                },
+                {
+                    "nome": "Treino de braço",
+                    "exercicios": [
+                        "braço",
+                        "superiores"
+                    ]
                 }
             ]
         },
@@ -42,6 +49,34 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 3,
+            "nome": "davila",
+            "idade": 23,
+            "sexo": "f",
+            "plano_treino": []
+        },
+        {
+            "id": 4,
+            "nome": "mateus",
+            "idade": 23,
+            "sexo": "m",
+            "plano_treino": []
+        },
+        {
+            "id": 4,
+            "nome": "davi",
+            "idade": 23,
+            "sexo": "f",
+            "plano_treino": []
+        },
+        {
+            "id": 23,
+            "nome": "matias",
+            "idade": 23,
+            "sexo": "m",
+            "plano_treino": []
         }
     ],
     "instrutores": [
